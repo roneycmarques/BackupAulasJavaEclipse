@@ -1,0 +1,35 @@
+package com.projeto.operadores;
+
+public class Operador {
+
+	//= (atribuição)
+	//== (igual)
+	//!= (diferente)
+	//> (maior)
+	//< (menor)
+	//>= (maior ou igual)
+	//<= (menor ou igual)
+	
+	//&& (e)
+	//|| (ou)
+	
+
+	
+	public static void main(String[] args) {
+		
+	boolean resultado;
+	int numero1=7; 
+	int numero2=6;
+	
+	
+	
+	
+	resultado = p || p;
+	
+
+	System.out.println(resultado);
+		
+		
+	}
+
+}

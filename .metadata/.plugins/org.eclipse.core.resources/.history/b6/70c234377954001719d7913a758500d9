@@ -1,0 +1,15 @@
+package com.projeto.condicionais;
+
+public class Condicional {
+
+	public static void main(String[] args) {
+		
+		boolean teste=true;
+	
+		//se
+		if(  7>5 || 1>5 )  {
+			System.out.println("Verdadeiro");
+			}
+	}
+
+}

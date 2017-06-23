@@ -1,0 +1,41 @@
+package com.projeto.variaveisjava;
+
+public class Variavel {
+	
+	//Variaveis
+	//Byte - armazena números = 1,2,10    -128 até 127
+	//int - Números - 1000, 23003, 2, 1
+	//Long - Números - 10000000000, 2, 1
+	
+	//float - Números decimais - 1.2343, 2.3455
+	//double - Números decimais - 1.23456789
+	
+	//boolean - valores booleanos - true / false
+	//String - Textos - "café, escola, etc.
+
+	public static void main(String[] args) {
+		
+		byte minhaVariavelByte = 10;
+		int minhaVariavelInt = 10000000;
+		long minhaVariavelLong = 1000000000;
+		
+		float minhaVariavelFloat = 1.3f;
+		double minhaVariavelDouble = 1.234566;
+		
+		boolean minhaVariavelBoolean = true;
+		String minhaVariavelString = "Roney";
+		
+		
+		System.out.println(minhaVariavelByte);
+		System.out.println(minhaVariavelInt);
+	    System.out.println(minhaVariavelLong);
+		System.out.println(minhaVariavelFloat);
+		System.out.println(minhaVariavelDouble);
+		System.out.println(minhaVariavelBoolean);
+		System.out.println(minhaVariavelString);
+
+		
+		
+	}
+
+}

@@ -1,0 +1,36 @@
+package com.projeto.operadores;
+
+public class Operador {
+
+	//= (atribuição)
+	//== (igual)
+	//!= (diferente)
+	//> (maior)
+	//< (menor)
+	//>= (maior ou igual)
+	//<= (menor ou igual)
+	
+	//&& (e)
+	//|| (ou)
+	
+
+	
+	public static void main(String[] args) {
+		
+	boolean resultado;
+	int anoDeNascimento = 1986; 
+	int anoCorrente = 2017;
+	int idadeLimite = 18;
+	
+	
+	
+	
+	resultado = anoDeNascimento <= anoCorrente;
+	
+	
+	System.out.println(resultado);
+		
+		
+	}
+
+}

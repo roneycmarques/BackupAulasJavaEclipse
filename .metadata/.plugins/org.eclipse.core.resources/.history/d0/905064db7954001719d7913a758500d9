@@ -1,0 +1,20 @@
+package com.projeto.condicionais;
+
+public class Condicional {
+
+	public static void main(String[] args) {
+		
+		boolean teste=true;
+	
+		//se
+		if(  false )  {
+			System.out.println("Verdadeiro");
+		}else if (true){
+			System.out.println("Verdadeiro else if");
+		}else if (true){	
+			System.out.println("Verdadeiro else if 2");
+
+		}
+	}
+
+}

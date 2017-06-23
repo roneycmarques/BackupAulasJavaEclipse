@@ -1,0 +1,18 @@
+package com.projeto.operadores;
+
+public class Operador {
+
+	//= (atribuição)
+	//== (igual)
+	
+	public static void main(String[] args) {
+		
+	boolean resultado;
+	
+	resultado = 6 == 6;
+		
+		
+		
+	}
+
+}

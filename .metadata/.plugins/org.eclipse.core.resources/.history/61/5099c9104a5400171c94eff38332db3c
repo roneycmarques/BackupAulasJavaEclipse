@@ -1,0 +1,20 @@
+package com.projeto.variaveisjava;
+
+public class Variavel {
+	
+	//Variaveis
+	//Byte - armazena números = 1,2,10    -128 até 127
+	//int - Números - 1000, 23003, 2, 1
+
+	public static void main(String[] args) {
+		
+		byte minhaVariavelByte = 10;
+		int minhaVariavelInt = 10000000;
+		
+		
+		System.out.println(minhaVariavelByte);
+		System.out.println(minhaVariavelInt);
+		
+	}
+
+}

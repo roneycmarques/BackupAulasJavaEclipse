@@ -1,0 +1,15 @@
+package com.projeto.metodos;
+
+public class Metodos {
+
+	public static void main(String[] args) {
+		
+		meuMetodo();
+		
+	}
+	
+	public static void meuMetodos (){
+		System.out.println("Ësse é o meu método");
+		
+}
+}
